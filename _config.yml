@@ -3,4 +3,4 @@ logo: images.jpg
 description: Data Analyst with experience using Excel for report automation, SQL for data manupulation and interrogation and Power BI for creating business insights
 # show_downloads: true
 # google_analytics:
-theme: jeky11-theme-minimal
+theme: jekyll-theme-minimal
