@@ -11,4 +11,4 @@
 **Key findings:**
 
 **Dashboard overview:**
-![Zen sales performance.JPG](Zen sales performance.JPG)
+![Zen Dashboard.png](Zen Dashboard.png)
