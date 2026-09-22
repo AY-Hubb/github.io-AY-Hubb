@@ -10,5 +10,5 @@
 
 **Key findings:**
 
-**Dashboard overview:**
+**Dashboard overview:** [Click here](https://ay-hubb.github.io/github.io-AY-Hubb/Zen_sales_performance.JPG)
 ![Zen_sales_performance.JPG](Zen_sales_performance.JPG)
