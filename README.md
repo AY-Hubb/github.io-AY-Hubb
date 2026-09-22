@@ -2,7 +2,7 @@
 
 # Project 1
 
-**Title:** Shoe sales performance analysis
+**Title:** [Shoe sales performance analysis](https://github.com/AY-Hubb/github.io-AY-Hubb/blob/main/Zen%20EliteStride%20Maison.xlsx)
 
 **Tool Used:** Microsoft Excel
 
