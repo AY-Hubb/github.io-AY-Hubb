@@ -11,3 +11,5 @@
 **Key findings:**
 
 **Dashboard overview:**
+
+![Zen Dashboard.png](Zen Dashboard.png)
