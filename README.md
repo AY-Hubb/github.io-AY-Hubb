@@ -12,4 +12,4 @@
 
 **Dashboard overview:**
 
-![Zen Dashboard.png](Zen Dashboard.png)
+![image alt](https://github.com/AY-Hubb/github.io-AY-Hubb/blob/74664532a9a970b3083fa88f2f31d1da13168a40/Zen%20Dashboard.png)
